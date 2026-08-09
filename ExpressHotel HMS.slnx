@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExpressHotel.Application/ExpressHotel.Application.csproj" Id="720fdac6-7ca7-4e68-8923-e53d232947f7" />
+  <Project Path="ExpressHotel.Domain/ExpressHotel.Domain.csproj" />
+</Solution>
